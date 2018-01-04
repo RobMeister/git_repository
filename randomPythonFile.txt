@@ -1,0 +1,10 @@
+# This is a text file with Python code in it.
+
+def doStuff():
+    print("This function is doing stuff.")
+    print("Ooh yeah!")
+
+def main():
+    doStuff()
+
+if __name__ == "__main__": main()
